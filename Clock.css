@@ -1,0 +1,33 @@
+.time{
+    text-align: center;
+
+}
+button{
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: black;
+    color: azure;
+    box-shadow:2px 3px grey;
+}
+
+#showdate{
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 50px ; 
+    margin-left: 100px;
+    margin-right: 100px;
+    color: #04d9ff;
+}
+#showtime{
+    height: 50px;
+    background-color:black;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-size: 50px;
+    color: #04d9ff;
+    margin-left: 100px;
+    margin-right: 100px;
+}
